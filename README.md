@@ -1,6 +1,8 @@
 # P2-Traffic-Sign-Classifier
 Second project submission at Udacity Self Driving Nanodegree program - classifying Traffic Signs using deep learning - Tensorflow
 
+Full project description can be found in Finilized_Traffic_Signs_Recognition.ipynb and report.html
+
 # Self-Driving Car Engineer Nanodegree
 # Deep Learning
 ## Project: Build a Traffic Sign Recognition Program
